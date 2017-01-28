@@ -17,7 +17,7 @@ class NameViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        //名前を表示する
+        //名前を表示
         label.text = "こんにちは、\(inputname)さん"
 
         // Do any additional setup after loading the view.
